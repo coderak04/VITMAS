@@ -44,3 +44,40 @@ Here are some of the basic Git commands along with their syntax:
 11) git mv: Renames a file in the repository. 
 
     Syntax:git mv 
+
+12) git clone: Clones a remote repository to your local machine.
+   
+    Syntax:git clone <repository-url>
+
+13) git remote: Lists or adds remote repositories.
+    
+    Syntax:git remote/git remote add <remote-name> <repository-url>
+
+14) git fetch: Fetches changes from a remote repository without merging them into the current branch.
+
+    Syntax:git fetch <remote-name> <branch-name>
+
+15) git diff: Shows differences between the working directory and the repository.
+    
+    Syntax:git diff
+
+16) git tag: Lists or creates tags.
+
+    Syntax:git tag/git tag <tag-name>
+    
+17) git stash: Temporarily saves changes that are not ready to be committed.
+    
+    Syntax:git stash
+    
+18) git reset: Resets the repository to a previous commit.
+    
+    Syntax:git reset <commit>
+
+19) git revert: Reverts changes made in a previous commit.
+
+    Syntax:git revert <commit>
+
+20) git rm: Removes files from the repository.
+    
+    Syntax:git rm <file>
+
