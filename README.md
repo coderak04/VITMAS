@@ -1,4 +1,4 @@
-# VITMAS
+# Basic git commands
 Here are some of the basic Git commands along with their syntax:
 
 1) git init: This command is used to create a new Git repository.
